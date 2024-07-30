@@ -1,38 +1,92 @@
-.App {
-  text-align: center;
+.nav-link{
+  cursor: pointer;
+  font-weight: 600;
+  gap: 10px;
+}
+.nav-link:hover{
+  border: red 1px solid;
+  border-radius: 5px;
+  background-color: greenyellow;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.Form{
+  height: 600px;
+  color:black;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.name1{
+  margin-left: 260px;
+  margin-top: 40px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  gap: 30px;
+}
+.name2{
+  margin-left: 220px;
+  margin-top: 40px;
+  display: flex;
+  gap: 30px;
+}
+.name3{
+  margin-left: 270px;
+  margin-top: 40px;
+  display: flex;
+  gap: 30px;
+}
+.input{
+  width: 600px;
+}
+.email{
+  width: 300px;
+  margin-left: 35px;
+}
+.name4{
+  margin-left: 260px;
+  margin-top: 40px;
+  display: flex;
+  gap: 30px;
+}
+.name5{
+  margin-left: 280px;
+  margin-top: 40px;
+  display: flex;
+  gap: 30px;
+}
+.name6{
+  margin-left: 360px;
+  margin-top: 40px;
+  display: flex;
+  gap: 30px;
+}
+.name7{
+  margin-left: 360px;
+  margin-top: 40px;
+  display: flex;
+  gap: 30px;
+}
+.name8{
+  margin-left: 560px;
+  margin-top: 40px;
+  display: flex;
+  gap: 30px;
+}
+button{
+  border: 1px red solid;
+  background-color: white;
+  border-radius: 5px;
+  font-weight: 600;
+  background-color: blue;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+button:hover{
+  background-color: greenyellow;
+  border: 1px gold solid;
+  border-radius: 5px;
+  transform: scale(1.2);
+  color: black;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Data{
+  margin-left: 580px;
+  color: green;
+}
+table, th, td {
+  border:2px solid black;
 }
