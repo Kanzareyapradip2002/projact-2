@@ -90,3 +90,71 @@ button:hover{
 table, th, td {
   border:2px solid black;
 }
+.Address{
+ width:500px;
+ height:30px;
+}
+.Main{
+  border: 2px black solid;
+  height: 600px;
+  width: 320px;
+  margin-left: 460px;
+}
+.EditUser{
+  margin-left: 100px;
+}
+.sarname{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 260px;
+}
+.name{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 260px;
+}
+.fatherName{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 260px;
+}
+.phoneNumber{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 260px;
+}
+.Email{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 260px;
+}
+.password{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 260px;
+}
+.gender{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 260px;
+}
+.address{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 260px;
+}
+.Update{
+  margin-top: 20px;
+  margin-left: 50px;
+  width: 200px;
+}
+.Cancel{
+  margin-top: 20px;
+  margin-left: 50px;
+  width: 200px;
+}
+.Home{
+  margin-left: 450px;
+  width: 300px;
+  height: 40px;
+}
